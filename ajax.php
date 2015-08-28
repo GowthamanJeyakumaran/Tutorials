@@ -5,7 +5,7 @@
 /**
  * Start the session.
  */
-session_start();
+session_start(); // hi
  
 /**
  * Include ircmaxell's password_compat library.
